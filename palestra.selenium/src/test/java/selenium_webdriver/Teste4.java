@@ -1,4 +1,4 @@
-package selenium;
+package selenium_webdriver;
 
 import org.junit.Assert;
 import org.junit.Test;
@@ -15,10 +15,10 @@ public class Teste4 {
     public void testeLoginSucesso() {
         WebDriver driver = new FirefoxDriver();
         driver.manage().window().maximize();
-        driver.get("http://planned.by/quickloja");
+        driver.get("http://hom.anymarket.com.br:8072");
 
         WebElement login = driver.findElement(By.id("usuariologin"));
-        login.sendKeys("teste");
+        login.sendKeys("danilo@example.com");
 
         WebElement senha = driver.findElement(By.name("usuariosenha"));
         senha.sendKeys("123");
