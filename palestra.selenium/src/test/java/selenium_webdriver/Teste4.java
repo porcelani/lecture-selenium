@@ -20,7 +20,7 @@ public class Teste4 {
         driver.get("http://hom.anymarket.com.br:8072");
 
         WebElement login = driver.findElement(By.id("username"));
-        login.sendKeys("camila@example.com");
+        login.sendKeys("porcelani@example.com");
 
         WebElement senha = driver.findElement(By.name("password"));
         senha.sendKeys("123");
@@ -40,6 +40,7 @@ public class Teste4 {
         // wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("botaoOk")));
 
         //http://stefanteixeira.com.br/2014/04/29/entendendo-os-tipos-de-esperas-no-selenium-webdriver/
+        //http://www.seleniumhq.org/docs/04_webdriver_advanced.jsp
     }
 
 }
