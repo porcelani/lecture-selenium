@@ -27,8 +27,8 @@
       <file leaf-file-name="AnymarketTester.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/AnymarketTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4465291">
-              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.35084426">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -855,7 +855,7 @@
       <workItem from="1448528663856" duration="2918000" />
       <workItem from="1448534137245" duration="240000" />
       <workItem from="1448549556215" duration="1717000" />
-      <workItem from="1448564432091" duration="2072000" />
+      <workItem from="1448564432091" duration="2123000" />
     </task>
     <servers />
   </component>
@@ -892,7 +892,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16992000" />
+    <option name="totallyTimeSpent" value="17043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="876" extended-state="6" />
@@ -1319,8 +1319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AnymarketTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4465291">
-          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.35084426">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

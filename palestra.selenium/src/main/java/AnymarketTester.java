@@ -21,7 +21,7 @@ public class AnymarketTester {
                 senha.sendKeys("123");
 
                 login.submit();
-git
+
                 WebElement anymarket = driver.findElement(By.linkText("Anymarket"));
                 assertTrue(anymarket.isDisplayed());
 
