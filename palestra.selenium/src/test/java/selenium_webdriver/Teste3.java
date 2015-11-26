@@ -15,10 +15,14 @@ public class Teste3 {
 
         driver.findElement(By.id("usuariologin"));
         driver.findElement(By.name("usuariosenha"));
-        driver.findElement(By.tagName(""));
+        driver.findElement(By.className(""));
+        driver.findElement(By.linkText(""));
         driver.findElement(By.cssSelector(".btn.btn-medium.btn-primary"));
 
+        driver.findElement(By.tagName("iframe"));
+
         driver.quit();
+        //http://www.seleniumhq.org/docs/03_webdriver.jsp
     }
 }
 

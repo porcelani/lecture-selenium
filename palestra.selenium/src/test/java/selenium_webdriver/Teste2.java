@@ -18,12 +18,11 @@ public class Teste2 {
     }
 
     @Test
-    public void abrirHtml() {
+    public void abrindoHtmlUnit() {
         WebDriver driver = new HtmlUnitDriver();
         driver.get("http://www.google.com.br");
 
         driver.quit();
-
         //https://code.google.com/p/selenium/wiki/HtmlUnitDriver
     }
 }
