@@ -1,10 +1,10 @@
-package page_object.anymarket;
+package selenium3_page_object.anymarket;
 
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.PageFactory;
-import page_object.anymarket.page.LoginPage;
+import selenium3_page_object.anymarket.page.LoginPage;
 
 public class LoginTest {
 

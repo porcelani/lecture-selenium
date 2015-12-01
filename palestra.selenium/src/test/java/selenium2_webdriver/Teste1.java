@@ -1,12 +1,12 @@
-package selenium_webdriver;
+package selenium2_webdriver;
 
-import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.firefox.FirefoxDriver;
+        import org.junit.Test;
+        import org.openqa.selenium.By;
+        import org.openqa.selenium.WebDriver;
+        import org.openqa.selenium.WebElement;
+        import org.openqa.selenium.firefox.FirefoxDriver;
 
-import static org.junit.Assert.assertTrue;
+        import static org.junit.Assert.assertTrue;
 
 public class Teste1 {
 

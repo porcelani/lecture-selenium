@@ -1,12 +1,10 @@
-package selenium_webdriver;
+package selenium2_webdriver;
 
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 import static org.junit.Assert.assertTrue;
 
@@ -17,7 +15,7 @@ public class Teste4 {
     public void testeLoginSucesso() throws InterruptedException {
         WebDriver driver = new FirefoxDriver();
         driver.manage().window().maximize();
-        driver.get("http://hom.anymarket.com.br:8072");
+        driver.get("http://hom.anymarket.com.br");
 
         WebElement login = driver.findElement(By.id("username"));
         login.sendKeys("porcelani@example.com");

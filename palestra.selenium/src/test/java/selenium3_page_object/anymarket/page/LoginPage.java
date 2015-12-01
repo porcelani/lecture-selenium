@@ -1,4 +1,4 @@
-package page_object.anymarket.page;
+package selenium3_page_object.anymarket.page;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

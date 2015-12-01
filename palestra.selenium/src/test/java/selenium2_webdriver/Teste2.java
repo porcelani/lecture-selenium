@@ -1,4 +1,4 @@
-package selenium_webdriver;
+package selenium2_webdriver;
 
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;

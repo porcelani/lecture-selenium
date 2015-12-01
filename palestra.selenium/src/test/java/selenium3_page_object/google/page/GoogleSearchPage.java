@@ -1,4 +1,4 @@
-package page_object.google.page;
+package selenium3_page_object.google.page;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
