@@ -1,0 +1,7 @@
+Metodos:
+
+captureScreenshot()
+    Capturar a tela (screenshot) toda hora que um teste falha
+
+getHtmlSource()
+    Capturar o conteúdo HTML DOM quando um teste falha
