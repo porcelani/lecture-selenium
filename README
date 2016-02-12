@@ -1,7 +1,4 @@
-Metodos:
+Selenium
+Chat about professional software development
 
-captureScreenshot()
-    Capturar a tela (screenshot) toda hora que um teste falha
-
-getHtmlSource()
-    Capturar o conteúdo HTML DOM quando um teste falha
+http://pt.slideshare.net/Porcelani/palestra-selenium-55569694
